@@ -1,0 +1,67 @@
+/*body {
+  margin: 0;
+}*/
+
+.ab {
+  width: 800px;
+  background-color: #eee;
+  margin: 0;
+overflow: hidden;
+}
+
+.one   {
+  
+  width: calc(100% - 30px);
+  text-align: center;
+  margin-left: 15px;
+  background-color: #DDD;
+  padding-top :15px;
+  padding-bottom: 15px;
+  clear: both;
+  margin-top: 15px;
+}
+.two div {
+  
+  float: left;
+  width: calc((100% - 60px) / 3 );
+text-align: center;
+margin-left: 15px;
+background-color: #DDD;
+margin-top: 15px;
+padding-top :15px;
+padding-bottom: 15px; 
+
+
+  
+}
+
+.three div {
+  
+  float: left;
+  width: calc((100% - 45px) / 2 );
+text-align: center;
+margin-left: 15px;
+background-color: #DDD;
+margin-top: 15px;
+padding-top :15px;
+padding-bottom: 15px; 
+
+}
+
+.four div {
+  
+  float: left;
+  width: calc((100% - 75px) / 4 );
+text-align: center;
+margin-left: 15px;
+background-color: #DDD;
+margin-top: 15px;
+padding-top :15px;
+padding-bottom: 15px; 
+margin-bottom: 15px;
+
+  
+}
+.clear {
+    clear: both;
+    }

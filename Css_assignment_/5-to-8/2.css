@@ -1,0 +1,47 @@
+div {
+  
+  color: white;
+}
+.assign-2-shape-1 {
+  width: 400px;
+  margin:15px;
+  padding: 20px;
+  height: 400px;
+background-repeat: no-repeat;
+  background-image:url(../../photo/1.png) ;
+  background-color: #EEEEEE;
+  display: inline-block;
+  
+}
+.assign-2-shape-2 {
+  width: 400px;
+margin: 15px;
+padding: 20px;
+  height: 400px;
+background-repeat: repeat-y;
+  background-image:url(../../photo/1.png) ;
+  background-color: #EEEEEE;
+  display: inline-block;
+}
+.assign-2-shape-3 {
+  width: 400px;
+  margin: 15px;
+  padding: 20px;
+  height: 400px;
+background-repeat: repeat-x;
+  background-image:url(../../photo/1.png) ;
+  background-color: #EEEEEE;
+  display: inline-block;
+  
+}
+.assign-2-shape-4 {
+    width: 400px;
+    margin: 15px;
+    padding: 20px;
+  height: 400px;
+background-repeat: repeat;
+  background-image:url(../../photo/1.png) ;
+  background-color: #EEEEEE;
+  display: inline-block;
+
+}

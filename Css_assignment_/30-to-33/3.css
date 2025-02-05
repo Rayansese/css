@@ -1,0 +1,37 @@
+.ab  {
+  list-style-type: none;
+  width: 400px;
+}
+.ab li {
+  background-color: #Eee;
+  margin: 10px;
+  padding: 2px 10px 10px ;
+}
+.ab li ol li {
+  background-color: white;
+  padding: 8px 10px;
+  margin: 3px;
+  width: 310px;
+}
+.ab li ol {
+
+  padding-left: 30px;
+}
+.html {
+  padding-bottom: px;
+  overflow: hidden;
+}
+.css ol {
+  list-style-type: upper-roman
+}
+.js ul{
+  list-style-type: inside;
+  
+}
+.js ul li {
+    background-color: white;
+  padding: 8px 10px;
+  margin: 3px;
+  width: 300px;
+
+}

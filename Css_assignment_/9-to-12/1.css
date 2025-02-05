@@ -1,0 +1,22 @@
+div {
+  background-color: #DDD;
+  margin: 10px;
+  float: left;
+  padding: 25px;
+  outline: 5px solid black;
+
+  
+}
+.sec {
+  border: 5px solid ;
+  border-color: blue green;
+}
+.first {
+  border: 5px solid ;
+  border-color: red;
+}
+.thi {
+  border: 5px  ;
+  border-style: dashed;
+  border-color: red green blue yellow;
+}

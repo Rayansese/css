@@ -1,0 +1,28 @@
+.normal {
+  margin: 20px auto;
+  width: 300px;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 20px;
+  background-color: #bbb; 
+  color: black;
+}
+.one {
+  margin: 20px auto;
+  width: 300px;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 20px;
+  background-color: rgba(187, 187, 187, 0.1); /* Get The Background From Image */
+  color: black;
+}
+.two {
+  margin: 20px auto;
+  width: 300px;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 20px;
+  background-color: #bbb; /* Get The Background From Image */
+  color: black;
+  opacity: 0.1;
+}

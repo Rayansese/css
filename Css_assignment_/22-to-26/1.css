@@ -1,0 +1,32 @@
+/*div {
+  border: 2px solid #FF784E;
+  padding: 15px 10px;
+  text-align: center;
+  height: 80px;
+  
+}
+div p {
+  
+  border: inherit;
+  padding: inherit;
+  background-color: #EEE;
+  
+  width: 300px;
+  
+  
+}*/
+
+div {
+    border: 2.5px solid #FF784E; /* إطار حول الـ div */
+    padding: 20px; /* مسافة داخلية */
+   /* display: inline-block; */  
+   /* حتى يأخذ حجم المحتوى */
+}
+
+p {
+    border: inherit; /* يرث نفس الـ border من العنصر الأب */
+    padding: inherit; /* يرث نفس الـ padding من العنصر الأب */
+    background-color: #EEE; /* لون الخلفية */
+    text-align: center; /* توسيط النص */
+    margin: 0; /* إزالة المسافات الخارجية */
+}

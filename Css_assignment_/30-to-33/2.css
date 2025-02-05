@@ -1,0 +1,56 @@
+div {
+  width: 400px;
+  position: relative;
+  
+  background-color: #EEE;
+  line-height: 25px;
+  margin: 100px auto;
+  padding: 20px;
+  border-top: 3px  solid #F44336 ;
+  border-bottom: 3px solid #F44336;
+  border-right: 3px solid #2196F3;
+border-left: 3px solid #2196F3;
+  
+}
+.top-left {
+  position: absolute;
+  background-color: #2196F3;
+  top: -15px;
+  left: -15px;
+  padding: 5px 12px;
+  color: white;
+  border-right: 3px solid #F44336;
+}
+.top-right {
+  position: absolute;
+  background-color: #2196F3;
+  top: -15px;
+  right: -15px;
+  padding: 5px 12px;
+  color: white;
+  border-left: 3px solid #F44336;
+}
+.bottom-right {
+  
+  position: absolute;
+  background-color: #2196F3;
+  bottom: -15px;
+  right: -15px;
+  padding: 5px 12px;
+  color: white;
+  border-left: 3px solid #F44336;
+
+
+}
+.bottom-left {
+  
+  position: absolute;
+  background-color: #2196F3;
+  bottom: -15px;
+  left: -15px;
+  padding: 5px 12px;
+  color: white;
+  border-right: 3px solid #F44336;
+
+
+}
